@@ -1,4 +1,4 @@
-# Script-Excecution-tkinter-Django-Mqtt
+# Script-Excecution-tkinter-Django-Mqtt-App
 
 Creating a tkinter app in which one can create python scripts, user should be able to create, delete, update or view that script
 
