@@ -23,6 +23,9 @@ Fields :
 - execution_started_at
 - execution_completed_at
 - execution_time ( in how many seconds script has been executed )
+<br>
+<img width="519" alt="Screenshot 2023-08-16 at 9 20 26 PM" src="https://github.com/NikhilSaraogi/Script-Excecution-tkinter-Django-Mqtt/assets/35253854/ee5bd89c-417d-488d-8409-79198e949638">
+<br>
 
 2 ) Creating One Django App to Show The Data In Django Templates To User
 
@@ -33,5 +36,5 @@ Fields :
 Requirement for doing these :
 - MQTT
 
-  <img width="1407" alt="Screenshot 2023-08-16 at 9 22 13 PM" src="https://github.com/NikhilSaraogi/Script-Excecution-tkinter-Django-Mqtt/assets/35253854/a516067b-0bf4-4e99-99cb-7175bdea313a">
+
 
